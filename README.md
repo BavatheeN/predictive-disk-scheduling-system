@@ -40,7 +40,6 @@ This project demonstrates how intelligent scheduling can reduce seek time and im
 ```bash
 git clone https://github.com/BavatheeN/predictive-disk-scheduling-system.git
 cd predictive-disk-scheduling-system
-
 ---
 
 ## 👥 Contributors
