@@ -1,6 +1,3 @@
-# predictive-disk-scheduling-system
-Web-based disk scheduling simulator using Poisson process and predictive algorithms
-
 # 🚀 Predictive Disk Scheduling System
 
 ## 📌 Description
@@ -48,7 +45,6 @@ cd predictive-disk-scheduling-system
 
 ## 👥 Contributors
 
-- Bavathee N
-- Abitha K
-- Ajitha I
-  
+- [**Bavathee N**](https://github.com/BavatheeN)
+- [**Abitha K**](https://github.com/AbithaK)
+- [**Ajitha I**](https://github.com/AjithaI)
